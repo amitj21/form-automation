@@ -1,4 +1,4 @@
-# Form-automation
+# Form Automation
 
 ## Automating a form registration process on Formy app
 
